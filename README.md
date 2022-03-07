@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M4anuel
 - 👀 I’m interested in gaming & programming
-- 🌱 I’m currently learning java, php, html, css
+- 🌱 I’m currently learning java, php, python, html, css and mySQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord: M4anuel#3754
 
