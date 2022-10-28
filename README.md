@@ -11,8 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-Hey, I'm an 18yo, 1.97m (6.5 ft in freedom units) tall swiss guy that is currently going to Uni. 
-I speak Swiss-german, German, English and French.
+I can communicate in Swiss-german, German, English and French.
 
 I name my windows files AUX, CLOCK$, COM1 trough COM9, CON, LPT1 trough LPT9, NUL and PRN.
 
