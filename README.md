@@ -1,8 +1,8 @@
 # 💫 About Me:
-📈 BSc Computer Science student, minor in mathematics, psychology and business informatics
-💻Fullstack dev Theology Faculty at the University of Bern
-👨‍🏫teaching assistant in programming for natural sciences at the University of Bern
-🏐 avid volleyball enjoyer and 🎮 occasional gamer
+📈 BSc Computer Science student, minor in mathematics, psychology and business informatics</br>
+💻Fullstack dev Theology Faculty at the University of Bern</br>
+👨‍🏫teaching assistant in programming for natural sciences at the University of Bern</br>
+🏐 avid volleyball enjoyer and 🎮 occasional gamer</br>
 
 
 ## 🌐 Socials:
