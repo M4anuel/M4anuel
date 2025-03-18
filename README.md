@@ -18,9 +18,6 @@
 ### ✍️ Great Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=The%20ability%20to%20speak%20does%20not%20make%20you%20intelligent&author=Qui%20Gon%20Jin)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=M4anuel&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=M4anuel&icon=0&color=0)](https://visitcount.itsvg.in)
 
